@@ -1,0 +1,14 @@
+C:\Users\stina\Moment2.1C#\bin\Debug\net8.0\Moment2.1C#.exe
+C:\Users\stina\Moment2.1C#\bin\Debug\net8.0\Moment2.1C#.deps.json
+C:\Users\stina\Moment2.1C#\bin\Debug\net8.0\Moment2.1C#.runtimeconfig.json
+C:\Users\stina\Moment2.1C#\bin\Debug\net8.0\Moment2.1C#.dll
+C:\Users\stina\Moment2.1C#\bin\Debug\net8.0\Moment2.1C#.pdb
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.AssemblyInfoInputs.cache
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.AssemblyInfo.cs
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.csproj.CoreCompileInputs.cache
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.dll
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\refint\Moment2.1C#.dll
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.pdb
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.genruntimeconfig.cache
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\ref\Moment2.1C#.dll
