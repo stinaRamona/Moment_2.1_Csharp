@@ -15,16 +15,25 @@ string today = System.DateTime.Now.DayOfWeek.ToString();
 
 Console.WriteLine($"Today it is {today}"); 
 
-/*
+
 //Inmatning för datum
-Console.WriteLine("Ange ett datum med följande struktur åååå-mm-dd"); 
+Console.WriteLine("Ange ett datum med följande struktur åååå, mm, dd"); 
 
-string? yourDate = Console.ReadLine(); //frågetecken efter string för den kan vara null
+string? inputDate = Console.ReadLine(); //frågetecken efter string för den kan vara null
 
-Console.WriteLine($"Datumet {yourDate} var på en veckodag"); //hur ska man göra omvandlingen? 
-*/
+//förbereder variabel 
+DateTime yourDate; 
 
-//skapar ett nytt datum med med inmatad data (man kanske kan kombinera dessa?)
-DateTime dateValue = new DateTime(1997, 10, 20); 
+//kontroll av inmatningen av datumet samt utläsning av veckodagen  
 
-Console.WriteLine($"The given date was on a {dateValue.DayOfWeek.ToString()}");
+//TyrParse konverterar strängen till ett datum om det är rätt inmatat och sparas i yourDate
+if(DateTime.TryParse(inputDate, out yourDate))  
+{   
+    //Veckodagen för datumet skrivs ut 
+    Console.WriteLine($"The given date was on a {yourDate.DayOfWeek.ToString()}");
+} 
+else 
+{   
+    //Ifall inte strängen kan konverteras till ett datum skrivs ett felmeddelande ut och man får starta om programmet 
+    Console.WriteLine("The input is not correct please try again"); 
+}
