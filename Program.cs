@@ -10,3 +10,4 @@ Lösningen ska vara ett program som tar emot ett inmatat datum (år-månad-dag)
 och genererar veckodagen det datument förföll på
 */ 
 
+Console.WriteLine("Test"); 

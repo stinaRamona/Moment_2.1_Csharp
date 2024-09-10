@@ -12,3 +12,4 @@ C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\refint\Moment2.1C#.dll
 C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.pdb
 C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.genruntimeconfig.cache
 C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\ref\Moment2.1C#.dll
+C:\Users\stina\Moment2.1C#\obj\Debug\net8.0\Moment2.1C#.sourcelink.json
